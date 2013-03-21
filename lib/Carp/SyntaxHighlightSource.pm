@@ -9,7 +9,7 @@ use Term::ANSIColor;
 #use Text::ANSI::Util qw(ta_strip);
 use Tie::Cache;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 require Exporter;
 our @ISA       = qw(Exporter);
@@ -215,7 +215,7 @@ Carp::SyntaxHighlightSource - Die/warn of errors with stack backtrace and source
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

@@ -20,4 +20,4 @@ requires:
 resources:
   homepage: http://metacpan.org/release/Carp-Always-SyntaxHighlightSource
   repository: http://github.com/sharyanto/perl-Carp-Always-SyntaxHighlightSource
-version: 0.01
+version: 0.02

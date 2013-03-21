@@ -5,7 +5,7 @@ use strict;
 use warnings;
 use Carp::SyntaxHighlightSource;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 our %options;
 
@@ -60,11 +60,15 @@ Carp::Always::SyntaxHighlightSource - Carp::Always, but show syntax-highlighted 
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
  % perl -MCarp::Always::SyntaxHighlightSource script.pl
+
+Or, for less carpal tunnel syndrome:
+
+ % perl -MCarp::Always::SHS script.pl
 
 =head1 DESCRIPTION
 

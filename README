@@ -3,10 +3,14 @@ NAME
     syntax-highlighted source code context
 
 VERSION
-    version 0.01
+    version 0.02
 
 SYNOPSIS
      % perl -MCarp::Always::SyntaxHighlightSource script.pl
+
+    Or, for less carpal tunnel syndrome:
+
+     % perl -MCarp::Always::SHS script.pl
 
 DESCRIPTION
 CREDITS
