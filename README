@@ -1,0 +1,30 @@
+NAME
+    Carp::Always::SyntaxHighlightSource - Carp::Always, but show
+    syntax-highlighted source code context
+
+VERSION
+    version 0.01
+
+SYNOPSIS
+     % perl -MCarp::Always::SyntaxHighlightSource script.pl
+
+DESCRIPTION
+CREDITS
+    Modified from Carp::Source::Always.
+
+SEE ALSO
+    Carp::Always
+
+    Carp::Source and Carp::Source::Always
+
+    carpa
+
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2013 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
